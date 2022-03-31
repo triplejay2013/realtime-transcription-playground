@@ -1,4 +1,8 @@
 <p align="center">
+  I am forking this to give the original author some credit, but my use of this project can be found [here](https://gitlab.com/triplejay2013-personal-projects/projects/dudebot). My project was created initially as a private repo, so that link may not work :) I'll likely open it up to public after a while (TBD).
+</p>
+
+<p align="center">
   <img width="60px" src="https://user-images.githubusercontent.com/6180201/124313197-cc93f200-db70-11eb-864a-fc65765fc038.png" alt="giant microphone"/><br/>
   <h2 align="center">Real-time Transcription Playground</h2>
 </p>
